@@ -1,12 +1,12 @@
-Subject: A new user has registered
+Teema: Registreerunud on uus kasutaja
 
-A new user has registered on your board "{SITENAME}".
+Teie lehele "{SITENAME}" on registreerinud uus kasutaja.
 
-User details:
+Kasutaja detailid:
 
-Username:		 {USERNAME}
-E-mail:			{USER_MAIL}
-Registered on:		{USER_REGDATE}
+Kasutajanimi:		 {USERNAME}
+E-post:			{USER_MAIL}
+Registreeritud:		{USER_REGDATE}
 IP:				{USER_IP}
 
 {EMAIL_SIG}
